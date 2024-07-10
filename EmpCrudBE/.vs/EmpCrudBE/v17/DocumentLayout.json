@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Demo\\EmpCrudBE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\controllers\\designationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\migrations\\20240514173244_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\migrations\\20240514173244_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\model\\employeecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\model\\tbldesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\model\\tbldesignation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|d:\\demo\\empcrudbe\\empcrudbe\\model\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7867DA2F-F4EF-4334-B1A5-72C4C55026C4}|EmpCrudBE\\EmpCrudBE.csproj|solutionrelative:empcrudbe\\model\\tblemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240514173244_init.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Migrations\\20240514173244_init.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Migrations\\20240514173244_init.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Migrations\\20240514173244_init.cs",
+              "RelativeToolTip": "EmpCrudBE\\Migrations\\20240514173244_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:32:45.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DesignationController.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Controllers\\DesignationController.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Controllers\\DesignationController.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Controllers\\DesignationController.cs",
+              "RelativeToolTip": "EmpCrudBE\\Controllers\\DesignationController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:31:08.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Controllers\\EmployeeController.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "EmpCrudBE\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:24:11.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Program.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Program.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Program.cs",
+              "RelativeToolTip": "EmpCrudBE\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:12:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\appsettings.json",
+              "RelativeDocumentMoniker": "EmpCrudBE\\appsettings.json",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\appsettings.json",
+              "RelativeToolTip": "EmpCrudBE\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-14T17:05:45.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeContext.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Model\\EmployeeContext.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Model\\EmployeeContext.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Model\\EmployeeContext.cs",
+              "RelativeToolTip": "EmpCrudBE\\Model\\EmployeeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:05:10.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TblDesignation.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Model\\TblDesignation.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Model\\TblDesignation.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Model\\TblDesignation.cs",
+              "RelativeToolTip": "EmpCrudBE\\Model\\TblDesignation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:03:26.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TblEmployee.cs",
+              "DocumentMoniker": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Model\\TblEmployee.cs",
+              "RelativeDocumentMoniker": "EmpCrudBE\\Model\\TblEmployee.cs",
+              "ToolTip": "D:\\Demo\\EmpCrudBE\\EmpCrudBE\\Model\\TblEmployee.cs",
+              "RelativeToolTip": "EmpCrudBE\\Model\\TblEmployee.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T17:02:38.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
